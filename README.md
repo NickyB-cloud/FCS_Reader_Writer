@@ -2,6 +2,8 @@
 
 *by Nicholas B. Franks, PhD*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23087328.svg)](https://doi.org/10.5281/zenodo.23087328)
+
 **Have you ever spent half a month in tears because FlowIO and FlowKit keep breaking your scripts?**
 
 Have you ever upgraded Python and watched `pip install flowkit` die while trying to compile FlowUtils? Pinned three packages to three versions that refuse to agree? Opened a Cytek file only to be told its TEXT segment is "malformed" by software that was fine yesterday?
@@ -109,4 +111,4 @@ MIT License. Free to use, modify and share; just keep the copyright notice. See 
 
 If this saved you some tears, please cite it. GitHub's **"Cite this repository"** button (from `CITATION.cff`) gives a ready-made citation:
 
-> Franks, N. B. *FCS_Reader_Writer: a standalone pure-Python FCS file reader and writer* (v1.0.0).
+> Franks, N. B. (2026). *FCS_Reader_Writer: a standalone pure-Python FCS file reader and writer* (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.23087328

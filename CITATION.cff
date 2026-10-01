@@ -8,6 +8,8 @@ authors:
     orcid: "https://orcid.org/0009-0006-2772-1352"
 license: MIT
 version: "1.0.0"
+doi: "10.5281/zenodo.23087328"
+date-released: "2026-10-01"
 keywords:
   - flow cytometry
   - FCS
