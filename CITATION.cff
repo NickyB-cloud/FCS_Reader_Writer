@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "FCS_Reader_Writer: a standalone pure-Python FCS file reader and writer"
+type: software
+authors:
+  - family-names: "Franks"
+    given-names: "Nicholas B."
+    orcid: "https://orcid.org/0009-0006-2772-1352"
+license: MIT
+version: "1.0.0"
+keywords:
+  - flow cytometry
+  - FCS
+  - spectral flow cytometry
+  - Cytek Aurora
+  - Python
+abstract: >-
+  One-file, numpy + pandas only reader and writer for FCS 3.0/3.1/3.2
+  flow cytometry files, with no dependency on FlowIO, FlowKit or FlowUtils.
